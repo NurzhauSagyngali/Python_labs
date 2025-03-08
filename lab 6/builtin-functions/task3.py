@@ -1,5 +1,5 @@
 def palindrome(s):
-    return s == "".join(reversed(s))
+    return s == "".join(reversed(s)) # join() - Joins the reversed characters into a new string.
 
 text = input().lower()
 
