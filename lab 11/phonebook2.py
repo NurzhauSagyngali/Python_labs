@@ -1,5 +1,3 @@
-# file: phonebook_app.py
-
 import psycopg2
 import csv
 
